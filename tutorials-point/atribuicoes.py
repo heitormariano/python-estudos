@@ -7,6 +7,8 @@ num01, num02 = 10, 45
 print(num01)
 print(num02)
 
+print('O primeiro número informado foi {} e o segungo foi {}'.format(num01, num02))
+
 contador, salario, nome = 34, 1560.45, 'Jose'
 print("Contador: " + str(contador))
 print("Salario: " + str(salario))
