@@ -13,3 +13,6 @@ contador, salario, nome = 34, 1560.45, 'Jose'
 print("Contador: " + str(contador))
 print("Salario: " + str(salario))
 print("Nome: " + nome)
+
+print('Mais uma brincadeira com Strings')
+print('O contador: {}. O salário: {}. O nome: {}'.format(contador,salario,nome))
