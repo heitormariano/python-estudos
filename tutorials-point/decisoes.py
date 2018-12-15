@@ -5,8 +5,7 @@ num = 250
 if num % 2 == 0:
     print('Numero é par')
 else:
-    print('Numero é par')
-
+    print('Numero não é par')
 
 num_02 = 233
 
