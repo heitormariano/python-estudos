@@ -15,4 +15,4 @@ print("Salario: " + str(salario))
 print("Nome: " + nome)
 
 print('Mais uma brincadeira com Strings')
-print('O contador: {}. O salário: {}. O nome: {}'.format(contador,salario,nome))
+print('O contador: {}. O salário: {}. O nome: {}'.format(contador, salario, nome))
